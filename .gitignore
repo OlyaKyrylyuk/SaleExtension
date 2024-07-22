@@ -1,0 +1,17 @@
+/backups/
+/bin/
+/conf/
+/data/
+/downloads/
+/libs/
+/logs/
+/odoo/
+/venv/
+
+.odoo-helper.conf
+.idea
+
+/custom_addons/*
+!/custom_addons/**/
+/odoo-helper.conf
+!/odoo/README.md
